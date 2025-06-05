@@ -40,8 +40,8 @@ To run this project locally, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/TheHelltaker/first_flow_models.git](https://github.com/yTheHelltaker/first_flow_models.git)
+    cd first_flow_models
     ```
 2.  **Set up a virtual environment (recommended):**
     ```bash
