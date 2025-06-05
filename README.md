@@ -1,4 +1,6 @@
 Flow Matching and Generative Flow Models (Personal Re-implementation)
+
+
 This repository showcases my initial hands-on re-implementation from scratch of core concepts in Flow Matching and Generative Flow Models. This project served as a deep dive for personal learning, aiming to build intuition and practical understanding of how continuous normalizing flows operate.
 
 This work is directly inspired by and attempts to re-implement foundational ideas from the excellent MIT course "Introduction to Flow Matching and Diffusion Models" (6.S184) available online. I've used their general wireframe for the MLP and abstract class concepts as a guide, focusing on a bare-bones implementation to grasp the mechanics.
